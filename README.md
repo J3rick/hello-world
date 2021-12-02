@@ -7,3 +7,7 @@ Categorized into the following
 4. Machine learning
 
 More projects will be added here so keep a lookout
+
+Machine-Learning Repo:
+
+Here I start dabbling with AI, machine learnings, coding and more. Feel free to take a look at the codes, all codes have comments to them, making it easier to understand what each line does.
